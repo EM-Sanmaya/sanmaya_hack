@@ -54,4 +54,4 @@ print(f"🔹 R² Score: {r2:.4f}")
 
 # Save trained model
 model.save_model("xgboost_combinational_depth_model.json")
-print("\n✅ Model saved as 'xgboost_combinational_depth_model.json'")
+print("\n Model saved as 'xgboost_combinational_depth_model.json'")
